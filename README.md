@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Dev-nisa
-- 👀 I’m interested in Ruby, Python, and struggling through Java
-- 🌱 I’m currently learning HTML, CSS, Java on Free Code Camp
-- 💞️ I’m looking to collaborate on any beginner projects. I'm curious about front end, back end, and cloud related projects.
-- 📫 How to reach me here!
+- 👀 I’m interested in Ruby, Python, Java, and anything AI.
+- 🌱 I’m currently learning HTML, CSS, Java on Free Code Camp.
+- 💞️ I’m looking help with any open source projects. I have a lot to learn. I'd prefer to learn by building projects instead of tutorial hell.
+- 📫 You can message me here.
 - 😄 Pronouns: She/her
 
 <!---
