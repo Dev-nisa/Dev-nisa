@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dev-nisa
-- 👀 I’m interested in Ruby, Python, Java, and anything AI.
+- 👀 I’m interested in Ruby, Python, Java, and anything AI and Cloud related.
 - 🌱 I’m currently learning HTML, CSS, Java on Free Code Camp.
 - 💞️ I’m looking help with any open source projects. I have a lot to learn. I'd prefer to learn by building projects instead of tutorial hell.
 - 📫 You can message me here.
